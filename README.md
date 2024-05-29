@@ -1,1 +1,1 @@
-# Fashion-MNIST-Data-Classification-Project
+# Fashion-MNIST-Classification-using-Dense-Neural-Network
